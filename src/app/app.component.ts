@@ -23,7 +23,7 @@ import { Component } from '@angular/core';
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-    <div class="container " style="margin-top:50px;">
+    <div class="container " style="margin-top:80px;">
         <app-profile></app-profile>
     </div>
     
